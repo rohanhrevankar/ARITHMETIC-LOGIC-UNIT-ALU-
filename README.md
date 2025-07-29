@@ -40,3 +40,5 @@ To design and simulate a basic ALU circuit using Verilog and validate its functi
 
 #output
 
+<img width="1920" height="996" alt="Image" src="https://github.com/user-attachments/assets/adec9ba5-0c29-4c1f-a655-610c12b9d754" />
+
